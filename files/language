@@ -4,6 +4,9 @@
 messages:
   without-permission: '&cVocê não tem permissão para isto.'
   player-offline: '&cEste jogador não esta online no momento.'
+  clear:
+    your-inventory: '&aSeu inventário foi limpo'
+    other-inventory:  '&aVocê limpou o inventário de &2{player}'
   kit:
     buy: '&aVocê comprou o kit &n{kit}&a!'
     replaces:
