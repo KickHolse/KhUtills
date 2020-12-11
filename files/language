@@ -10,7 +10,15 @@ messages:
   invsee:
     usage: '&cUtilize /invsee <jogador>'
     success: '&aVocê abriu o inventário de &2{player}'
-  kit:
-    buy: '&aVocê comprou o kit &n{kit}&a!'
-    replaces:
-      buy: '&fPreço: &6{price}\n\n&eClique para comprar este kit!'
+  warn:
+    sound: 'LEVEL_UP'
+    broadcast:
+      enable: true
+      format: '\n &6{player}&a:&f {warn}\n '
+    action-bar:
+      enable: false
+      format: '\n &6{player}&a:&f {warn}\n '
+    title:
+      enable: false
+      title: '&c&lAVISO'
+      subtitle: '&7Olhe o chat!'
