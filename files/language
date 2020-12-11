@@ -10,6 +10,15 @@ messages:
   invsee:
     usage: '&cUtilize /invsee <jogador>'
     success: '&aVocê abriu o inventário de &2{player}'
+  gamemode:
+    usage: '&cUtilize /gamemode <modo> <jogador>'
+    yourself: '&aSeu modo de jogo foi alterado para &2{mode}'
+    other-player: '&aO modo de jogo de &2{player} foi alterado para &2{mode}'
+    replaces:
+      survival: 'Sobrevivência'
+      creative: 'Criativo'
+      adventure: 'Aventura'
+      spectator: 'Espectador'
   warn:
     usage: '&cUtilize /warn <mensagem>'
     sound: 'LEVEL_UP'
