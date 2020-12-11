@@ -7,6 +7,9 @@ messages:
   clear:
     your-inventory: '&aSeu inventário foi limpo'
     other-inventory:  '&aVocê limpou o inventário de &2{player}'
+  invsee:
+    usage: '&cUtilize /invsee <jogador>'
+    success: '&aVocê abriu o inventário de &2{player}'
   kit:
     buy: '&aVocê comprou o kit &n{kit}&a!'
     replaces:
