@@ -11,6 +11,7 @@ messages:
     usage: '&cUtilize /invsee <jogador>'
     success: '&aVocê abriu o inventário de &2{player}'
   warn:
+    usage: '&cUtilize /warn <mensagem>'
     sound: 'LEVEL_UP'
     broadcast:
       enable: true
