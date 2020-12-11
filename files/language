@@ -17,7 +17,7 @@ messages:
       format: '\n &6{player}&a:&f {warn}\n '
     action-bar:
       enable: false
-      format: '\n &6{player}&a:&f {warn}\n '
+      format: '&6{player}&a:&f {warn}'
     title:
       enable: false
       title: '&c&lAVISO'
