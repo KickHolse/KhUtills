@@ -13,7 +13,7 @@ messages:
   gamemode:
     usage: '&cUtilize /gamemode <modo> <jogador>'
     yourself: '&aSeu modo de jogo foi alterado para &2{gamemode}'
-    other-player: '&aO modo de jogo de &2{player} foi alterado para &2{gamemode}'
+    other-player: '&aO modo de jogo de &2{player}&a foi alterado para &2{gamemode}'
     replaces:
       survival: 'Sobrevivência'
       creative: 'Criativo'
