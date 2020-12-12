@@ -11,8 +11,8 @@ messages:
     usage: '&cUtilize /invsee <jogador>'
     success: '&aVocê abriu o inventário de &2{player}'
   ping:
-    yourself: '&aVocê está com &2{ping}ms {state}'
-    other-player: '&2{player} &aestá com &2{ping}ms {state}'
+    yourself: '&aVocê está com &2{ping}ms &7({state}&7)'
+    other-player: '&2{player} &aestá com &2{ping}ms &7({state}&7)'
     replaces:
       good: '&a&lBOM'
       medium: '&e&lMÉDIO'
