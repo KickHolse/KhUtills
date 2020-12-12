@@ -10,6 +10,13 @@ messages:
   invsee:
     usage: '&cUtilize /invsee <jogador>'
     success: '&aVocê abriu o inventário de &2{player}'
+  ping:
+    yourself: '&aVocê está com &2{ping}ms {state}'
+    other-player: '&2{player} &aestá com &2{ping}ms {state}'
+    replaces:
+      good: '&a&lBOM'
+      medium: '&e&lMÉDIO'
+      bad: '&c&lRUIM'
   gamemode:
     usage: '&cUtilize /gamemode <modo> <jogador>'
     yourself: '&aSeu modo de jogo foi alterado para &2{gamemode}'
